@@ -14,7 +14,7 @@ pip install gym numpy stable-baselines3
 Para entrenar y evaluar el modelo, ejecuta el siguiente comando:
 
 ```bash
-python robotic3.py
+python main.py
 ```
 
 ## 🏗️ Estructura del Código
