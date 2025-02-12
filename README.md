@@ -146,12 +146,6 @@ def evaluate(model, num_episodes=10):
 ✔ **Precisión:** ✅ 10/10 episodios exitosos.  
 ✔ **Recompensa media:** 🎯 **226.14 puntos**.  
 
-📈 **Gráfica del progreso** :  
-```
-Iteración 1: Recompensa media → 22.7
-Iteración 5: Recompensa media → 49.4
-Iteración 10: Recompensa media → 226.14 🎯
-```
 
 ---
 
