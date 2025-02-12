@@ -13,8 +13,9 @@ El modelo ha sido optimizado con:
 
 ### 1️⃣ **Clonar el repositorio**  
 ```sh
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/Bautistao2/Network-Anomaly-Detection-PBSCAN.git
+cd Network-Anomaly-Detection-PBSCAN
+
 ```
 
 ### 2️⃣ **Crear un entorno virtual (recomendado) 🏗️**  
